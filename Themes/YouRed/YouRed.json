@@ -1,11 +1,11 @@
 {
-    "name": "YouRed",
-    "description": "red based on material you :3",
+    "name": "IrohaRed",
+    "description": "Iroha red",
     "version": "1.0",
     "authors": [
       {
-        "name": "dor4a",
-        "id": "455513497288310785"
+        "name": "mryaya",
+        "id": "187628411022344192"
       }
     ],
     "semanticColors": {
@@ -231,6 +231,10 @@
         "WHITE_630": "#FDE3DE",
 		"ROLE_DEFAULT": "#271E1B",
 		"BLACK_460": "#271E1B"
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://i.imgur.com/JlV4jsu.jpeg"
     },
     "plus": {
        "version": "0",
